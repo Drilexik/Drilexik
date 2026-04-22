@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=drilexik&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drilexik&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="170" />
+  
+  <br>
 
-<!--
-**Drilexik/Drilexik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <span align="center">
+    <a href="https://drilex.cz">
+      <img alt="Website" src="web_icon.png" height="70" />
+    </a>
+    <a href="mailto:contact@drilex.cz">
+      <img alt="Mail" src="mail_icon.png" height="70" />
+    </a>
+    <a href="https://www.linkedin.com/in/filip-%C5%A1imkovi%C4%8D-5663173b6/">
+      <img alt="LinkedIn" src="linkedin_icon.png" height="70" />
+    </a>
+  </span>
+</p>
