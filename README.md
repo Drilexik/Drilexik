@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/drilexik?cardType=github&theme=dark&fontFamily=&preferLogin=false" height="170" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/drilexik?cardType=github&theme=dark&fontFamily=&preferLogin=false&Border=621ADD&borderRadius=8&Ring=621ADD&Background=250433&Text=C5C5C5&Title=FFFFFF" height="170" />
   
   <br>
 
